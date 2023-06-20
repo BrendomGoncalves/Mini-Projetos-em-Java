@@ -1,0 +1,3 @@
+arquivos\conjunto_arquivos\a.txt
+arquivos\conjunto_arquivos\b.txt
+arquivos\conjunto_arquivos\c.txt
